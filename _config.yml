@@ -21,6 +21,19 @@ disqus_username:
 markdown: kramdown
 permalink: /:categories/:title/
 
+# Page Setting
+collections: 
+  authors:
+    output: true
+    permalink: /authors/:path/
+    
+defaults:
+  - scope:
+      path: ''
+      type: authors
+    values:
+      layout: author
+      
 # Posts settings
 future: true
 safe: false
