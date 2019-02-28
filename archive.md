@@ -5,7 +5,7 @@ permalink: /posts/
 title: "Archive"
 crawlertitle: "All articles"
 summary: "Max Lee"
-active: Effective Java
+active: archive
 ---
 
 {% for tag in site.tags %}
