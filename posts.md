@@ -1,8 +1,8 @@
 ---
 bg: "tools.jpg"
-layout: page
+layout: default
 crawlertitle: "Max Lee's blog"
-permalink: /Post
+permalink: /Post/
 title: "Post"
 summary: "Dev Post"
 active: Post
