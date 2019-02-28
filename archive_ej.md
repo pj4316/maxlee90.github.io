@@ -2,7 +2,7 @@
 bg: "tag.jpg"
 layout: page
 permalink: /posts/EJ/
-title: "Archive"
+title: "Effective Java"
 crawlertitle: "All articles"
 summary: "Max Lee"
 active: EJ
