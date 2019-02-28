@@ -1,20 +1,13 @@
-<header class="main-header content-wrapper">
+<div class="site-category">
+    <ul class='cat1'>
+      <li><a href="/">Home</a></li>
+      <li><a href="/">Posts</a>
+      </li>
 
-  <input type="checkbox" id="menu-checkbox" />
+      <li><a href="/">About</a>
+      </li>
 
-  <nav class="center-wrapper nav-main">
-
-    <a class="blog-logo" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    {% for my_page in site.pages %}
-      {% if my_page.active %}
-        <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-      {% endif %}
-    {% endfor %}
-
-    <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
-
-    <label for="menu-checkbox" class="toggle-button" data-open="☰" data-close="☰" onclick></label>
-  </nav>
-
-</header>
+      <li><a href="/">Archive</a>
+      </li>
+    </ul>
+  </div>
