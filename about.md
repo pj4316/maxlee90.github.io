@@ -9,5 +9,6 @@ active: about
 ---
 Max Lee 개발 블로그
 
-[Max-Lee](https://github.com/pj4316)
+E-mail : [pj4316@naver.com](mailto:pj4316@naver.com)
+Github URL : [Max-Lee](https://github.com/pj4316)
 
