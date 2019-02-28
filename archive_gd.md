@@ -1,7 +1,7 @@
 ---
 bg: "tag.jpg"
 layout: page
-permalink: /posts/Gradle
+permalink: /posts/Gradle/
 title: "Gradle"
 crawlertitle: "All articles"
 summary: "Max Lee"
