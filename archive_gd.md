@@ -10,7 +10,7 @@ tags: Gradle
 ---
 
 {% for tag in site.tags %}
-  {% assign t = tag | first %}
+  {% assign t = tag | second %}
   {% assign posts = tag | last %}
 
   <h2 class="category-key" id="{{ t | downcase }}">{{ t | capitalize }}</h2>
