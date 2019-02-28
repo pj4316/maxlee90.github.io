@@ -3,9 +3,9 @@ bg: "tools.jpg"
 layout: page
 crawlertitle: "Max Lee's blog"
 permalink: /posts/
-title: "Max Lee - Dev Post"
+title: "Post"
 summary: "Dev Post"
-active: Posts
+active: Post
 ---
 
 {% for tag in site.tags %}
