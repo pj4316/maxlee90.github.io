@@ -6,11 +6,10 @@ title: "Gradle"
 crawlertitle: "All articles"
 summary: "Max Lee"
 active: Gradle
-tags: Gradle
 ---
 
 {% for tag in site.tags %}
-  {% assign t = tag | second %}
+  {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
   <h2 class="category-key" id="{{ t | downcase }}">{{ t | capitalize }}</h2>
