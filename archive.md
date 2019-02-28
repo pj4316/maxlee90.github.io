@@ -6,6 +6,7 @@ title: "Archive"
 crawlertitle: "All articles"
 summary: "Max Lee"
 active: archive
+tags: Effective Java
 ---
 
 {% for tag in site.tags %}
