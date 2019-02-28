@@ -33,6 +33,10 @@ defaults:
       type: authors
     values:
       layout: author
+
+# Category
+category_dir: category/
+tag_dir: tag/
       
 # Posts settings
 future: true
