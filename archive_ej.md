@@ -5,8 +5,7 @@ permalink: /posts/EJ/
 title: "Effective Java"
 crawlertitle: "All articles"
 summary: "Max Lee"
-active: EJ
-tags: Effective Java
+active: Effective Java
 ---
 
 {% for tag in site.tags %}
