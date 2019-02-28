@@ -2,7 +2,7 @@
 bg: "tools.jpg"
 layout: page
 crawlertitle: "Max Lee's blog"
-permalink: /posts/
+permalink: /
 title: "Post"
 summary: "Dev Post"
 active: Post
