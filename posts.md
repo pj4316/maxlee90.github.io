@@ -10,10 +10,10 @@ active: Post
 
 <li><a href="/Post/">Post</a>
   <ul>
-      <li><a href="/Post/EJ/">Effective Java</a></li>
+      <li><a href="/Post/EJ/0">Effective Java</a></li>
   </ul>
   <ul>
-      <li><a href="/Post/Gradle/">Gradle</a></li>
+      <li><a href="/Post/Gradle/0">Gradle</a></li>
   </ul>
 </li>
 
