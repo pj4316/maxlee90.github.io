@@ -2,7 +2,7 @@
 bg: "tools.jpg"
 layout: page
 crawlertitle: "Post"
-permalink: /Posts/EJ
+permalink: /Posts/EJ/0
 title: "Post"
 summary: "Dev Post"
 active: Post
