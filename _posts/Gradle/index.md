@@ -9,5 +9,5 @@ slug: post-url
 author: "Max Lee"
 permalink: /Posts/Gradle/1
 categories: posts/Gradle
-tags: ['Gradle']
+tags: 'Gradle'
 ---
