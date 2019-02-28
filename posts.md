@@ -8,12 +8,12 @@ summary: "Dev Post"
 active: Post
 ---
 
-<li><a href="/">Data Science</a>
+<li><a href="/Post/">Post</a>
   <ul>
       <li><a href="/Post/EJ">Effective Java</a></li>
   </ul>
   <ul>
-      <li><a href="/Post/Gradle">Gradle></a></li>
+      <li><a href="/Post/Gradle">Gradle</a></li>
   </ul>
 </li>
 
