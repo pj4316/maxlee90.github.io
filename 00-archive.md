@@ -5,7 +5,7 @@ permalink: /posts/
 title: "Post"
 crawlertitle: "All articles"
 summary: "Max Lee"
-active: 0.archive
+active: archive
 ---
 
 {% for tag in site.tags %}
