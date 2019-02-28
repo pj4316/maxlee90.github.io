@@ -1,11 +1,11 @@
 ---
 bg: "tag.jpg"
 layout: page
-permalink: /posts/
+permalink: /posts/Gradle
 title: "Gradle"
 crawlertitle: "All articles"
 summary: "Max Lee"
-active: archive
+active: Gradle
 tags: Gradle
 ---
 
