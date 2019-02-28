@@ -1,11 +1,11 @@
 ---
 bg: "tag.jpg"
 layout: page
-permalink: /posts/
+permalink: /posts/EJ/
 title: "Archive"
 crawlertitle: "All articles"
 summary: "Max Lee"
-active: archive
+active: EJ
 tags: Effective Java
 ---
 
