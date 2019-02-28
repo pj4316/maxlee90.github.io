@@ -5,7 +5,7 @@ title: "About"
 crawlertitle: "Why and how this blog was created"
 permalink: /about/
 summary: "About this blog"
-active: 1.about
+active: about
 ---
 Max Lee 개발 블로그
 
