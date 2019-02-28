@@ -8,5 +8,6 @@ date: 2019-02-28
 slug: post-url
 author: "Max Lee"
 permalink: /Posts/Gradle/1
+categories: posts/Gradle
 tags: ['Gradle']
 ---
